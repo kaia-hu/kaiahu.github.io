@@ -1,6 +1,7 @@
 # Exploring Transit Insecurity in America via Household Census Data 
 ### Course: Machine Learning Foundations with Python, Spring 2024, Professor: Gabriela Gongora-Svartzman, Ph.D.
 #### Co-Author: Kaia Hu kaiqihu@andrew.cmu.edu and Megan Ty mlty@andrew.cmu.edu
+#### Kaia's Main Contribution: Q2_InsecurityMetrics.ipynb, Q3_UnsupervisedLearning.ipynb, data_cleaning.ipynb, data_vix.ipynb
 
 ---
 
