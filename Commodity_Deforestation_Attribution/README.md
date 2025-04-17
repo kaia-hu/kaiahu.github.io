@@ -20,15 +20,15 @@ The dataset is huge, incorporating over 200k rows and 13 rows. The 13 rows are: 
 
 #### Questions
 
-*How does commodity deforestation vary across different continents and countries?*
+*How does commodity deforestation vary across different continents and countries?* <br>
 Value proposition: to inform about future directions on conservation efforts to target key vulnerable regions. Another value for the audience is informing us (consumers of food products) on how to identify less impactful products.
-Workflow: High-level visualizations on the patterns of deforestation attribution across different continents and countries.
-*What are some commodities that are really bad for the environment?*
-Value proposition: inform consumers about the environmental impact of their food choices and urge them to make better decisions through data.
-Workflow: Explore visual tools to demonstrate the high-deforestation-impact commodities and provide a "grocery guide" for consumers. Map the deforestation attribution of specific commodity with their global production to see if different sources of the same commodity could differ significantly in their environmental impacts.
-*How is the deforestation risk of agricultural and forestry commodities varying throughout time? What are some interesting patterns and trends with time that could be explained by political or economic situations.*
-Value proposition: Have a better understand the data and potentially draw correlation between social events and policies with deforestation attribution.
-Workflow: slicing the data into different years and comparing year-to-year changes in deforestation attribution and risk across different commodities and countries.
+Workflow: High-level visualizations on the patterns of deforestation attribution across different continents and countries.<br>
+*What are some commodities that are really bad for the environment?* <br>
+Value proposition: inform consumers about the environmental impact of their food choices and urge them to make better decisions through data. <br>
+Workflow: Explore visual tools to demonstrate the high-deforestation-impact commodities and provide a "grocery guide" for consumers. Map the deforestation attribution of specific commodity with their global production to see if different sources of the same commodity could differ significantly in their environmental impacts. <br>
+*How is the deforestation risk of agricultural and forestry commodities varying throughout time? What are some interesting patterns and trends with time that could be explained by political or economic situations.* <br>
+Value proposition: Have a better understand the data and potentially draw correlation between social events and policies with deforestation attribution. <br>
+Workflow: slicing the data into different years and comparing year-to-year changes in deforestation attribution and risk across different commodities and countries. <br>
 
 #### Possible Findings/Implications
 
